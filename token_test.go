@@ -13,7 +13,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gorilla/sessions"
+	"github.com/escribano/sessions"
 )
 
 func TestGenerate(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"text/template"
 
-	"github.com/gorilla/sessions"
-	"github.com/josephspurrier/csrfbanana"
+	"github.com/escribano/csrfbanana"
+	"github.com/escribano/sessions"
 )
 
 var (

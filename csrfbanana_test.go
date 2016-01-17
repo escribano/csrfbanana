@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/gorilla/sessions"
+	"github.com/escribano/sessions"
 )
 
 func TestDefaultFailureHandler(t *testing.T) {

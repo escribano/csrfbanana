@@ -16,7 +16,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/gorilla/sessions"
+	"github.com/escribano/sessions"
 )
 
 // CSRFHandler contains the configuration for the CSRF structure

@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/gorilla/sessions"
+	"github.com/escribano/sessions"
 )
 
 var (
